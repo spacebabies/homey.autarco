@@ -1,0 +1,23 @@
+[
+  {
+    "id": "email",
+    "type": "text",
+    "label": { "en": "Email" },
+    "value": "email@example.com",
+    "hint": { "en": "Email to log in to the My Autarco portal." }
+  },
+  {
+    "id": "password",
+    "type": "password",
+    "label": { "en": "Password" },
+    "value": "Secret",
+    "hint": { "en": "Password used in the My Autarco portal." }
+  },
+  {
+    "id": "site",
+    "type": "text",
+    "label": { "en": "Site" },
+    "value": "abcdefgh",
+    "hint": { "en": "Site identifier of your Autarco inverter." }
+  }
+]
