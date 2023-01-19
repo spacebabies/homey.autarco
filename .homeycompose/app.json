@@ -1,0 +1,29 @@
+{
+  "id": "nl.spacebabies.autarco",
+  "version": "1.0.0",
+  "compatibility": ">=5.0.0",
+  "sdk": 3,
+  "platforms": [
+    "local",
+    "cloud"
+  ],
+  "name": {
+    "en": "My Autarco"
+  },
+  "description": {
+    "en": "Adds support for Autarco devices."
+  },
+  "category": [
+    "energy"
+  ],
+  "permissions": [],
+  "images": {
+    "small": "/assets/images/small.png",
+    "large": "/assets/images/large.png",
+    "xlarge": "/assets/images/xlarge.png"
+  },
+  "author": {
+    "name": "Joost Baaij",
+    "email": "joost@spacebabies.nl"
+  }
+}
